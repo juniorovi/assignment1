@@ -1,0 +1,112 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 5px;
+}
+.golden-color{
+    color: gold;
+}
+h1{
+    font-size: 50px;
+    padding-left: 10px;
+}
+.paragraph-aline-text{
+    text-align: justify;
+    margin-right: 30px;
+}
+#create-gradient{
+    border-left: 5px solid;
+    border-image: linear-gradient(red, gold);
+    border-image-slice: 1;
+}
+.flexible-mission{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.equal-parts{
+    width: 100%;
+}
+.equal-parts img{
+    width: 65%;
+    size: 40px;
+    margin-left: 50px;
+}
+.botton-color{
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: green;
+    font-weight: 700;
+}
+.mission-vission-goal{
+    display: flex;
+}
+.background-mission{
+    background-image: url(mission-2022-main/images/illustrators/illustrator-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: top left;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: honeydew;
+}
+.background-vision{
+    background-image: url(mission-2022-main/images/illustrators/illustrator-2.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: khaki;
+}
+.background-goal{
+    background-image: url(mission-2022-main/images/illustrators/illustrator-3.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: lightcyan;
+}
+.aline-text{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 35px;
+    
+}
+.mid-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#bg1{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: left center;
+}
+#bg2{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: bottom right;
+}
+.footer-text{
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.blue-color{
+    color: violet;
+    padding-bottom: 40px;
+}
